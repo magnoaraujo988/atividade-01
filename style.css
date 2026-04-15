@@ -66,7 +66,7 @@ nav a:hover {
     --light-bg: #0f172a;
     --dark-color: #f1f5f9;
     --white: #1e293b;
-    --success-color: #187e18;
+    --success-color: #269b26;
     background: #181818;
     color: #f1f5f9;
 }
@@ -200,7 +200,7 @@ form button {
 }
 
 form button:hover {
-    background-color: #1d4ed8;
+    background-color: #187e18;
     box-shadow: 0 4px 12px rgba(37, 99, 235, 0.2);
 }
 
